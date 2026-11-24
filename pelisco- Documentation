@@ -1,0 +1,33 @@
+# Login Form Project
+
+## Project Description
+This project is a simple login form created
+using HTML, CSS, and JavaScript.
+
+## Features
+- Username input
+- Password input
+- Login button
+- Empty field validation
+- Simple and clean design
+
+## How to Use
+1. Open index.html in your browser.
+2. Enter your username.
+3. Enter your password.
+4. Click the Login button.
+5. If a field is empty, an error message
+   will appear.
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Git
+- GitHub
+
+## Group Members
+- Member 1: HTML Form
+- Member 2: CSS Styling
+- Member 3: JavaScript Validation
+- Member 4: Documentation
